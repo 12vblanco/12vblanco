@@ -5,10 +5,15 @@ Most recently at N-able, building in-app experiences and analytics for MSP softw
 ##
 What I work with:
 **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Vue, Node.js
+
 **APIs**: REST, GraphQL
+
 **Analytics & SaaS:** Pendo (custom JS/CSS), Salesforce, Zapier
+
 **Tools**: Git, Figma, Netlify, Cursor, Claude
+
 **Database**: MongoDB, MySQL
+
 8x Pendo certified.
 
 Some things I've built:
