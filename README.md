@@ -28,4 +28,4 @@ Fun facts:
 
 I drink more coffee than I should
 I read a lot of sci-fi (Asimov, Liu Cixin, Dick)
-I cycle. A lot. Including camping in the Scottish wilderness
+I cycle. A lot. Including cycle-camping in the Scottish wilderness
